@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -------------
 
-I've been learning to code for 8months now. I have created a total of 3 projects during that time and I am currently doing one. I am fluent in html, css, javascript, react and sql. I have written some django code once but still learning to be better.
+I've been learning to code for 8months now. I have created a total of 3 projects during that time and I am currently working on one. I am fluent in html, css, javascript, react and sql. I have written some django code once but still learning to be better.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [tobyakinbile@gmail.com](mailto:tobyakinbile@gmail.com)
